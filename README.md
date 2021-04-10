@@ -3,6 +3,7 @@
 Partition tensors in layers for mutiple accelerators.
 
 If useful, plaese cite:
+
 @inproceedings{song2020accpar,
   title={Accpar: Tensor partitioning for heterogeneous deep learning accelerators},
   author={Song, Linghao and Chen, Fan and Zhuo, Youwei and Qian, Xuehai and Li, Hai and Chen, Yiran},
