@@ -2,6 +2,15 @@
 
 Partition tensors in layers for mutiple accelerators.
 
+To compile:
+
+    make
+
+To print partitioning results:
+
+    ./accpar ./networks/Alexnet.txt -1
+    
+
 If you find this code useful in your research, please cite:
 
     @inproceedings{song2020accpar,
